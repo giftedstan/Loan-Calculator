@@ -1,4 +1,7 @@
 # JavaScript Loan Calculator
+#### The project is live at
+
+>>> http://loancalc.surge.sh
 
 
 
